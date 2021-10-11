@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalid1418
+- 👋 Hi, I’m @Khalid abdullah
 - 👀 i'm interested to know more about programing
 - 🌱 I’m currently learning kotlin programing
 - 💞️ I’m looking to collaborate on other content github
